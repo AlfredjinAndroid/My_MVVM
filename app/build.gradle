@@ -62,8 +62,6 @@ dependencies {
     implementation 'com.facebook.stetho:stetho:1.5.1'
 
     debugImplementation Dependencies.leakCanaryDebug
-    debugImplementation Dependencies.leakCanaryDebugSupport
-    releaseImplementation Dependencies.leakCanaryRelease
 
     kapt Dependencies.glideCompiler
     kapt Dependencies.roomCompiler

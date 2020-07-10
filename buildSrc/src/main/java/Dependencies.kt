@@ -24,7 +24,7 @@ object Versions {
     const val rxbinding = "3.1.0"
     const val autodispose = "1.2.0"
 
-    const val leakcanary = "1.6.2"
+    const val leakcanary = "2.4"
 
     const val espresso = "3.2.0"
     const val robolectric = "3.3.2"
